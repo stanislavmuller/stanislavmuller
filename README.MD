@@ -11,8 +11,7 @@
 
 <br>
 
-[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/tetete)
-[![X](https://img.shields.io/badge/-X%20(Twitter)-000000?style=flat&logo=x&logoColor=white)](https://x.com/tetete)
+[![X](https://img.shields.io/badge/-X%20(Twitter)-000000?style=flat&logo=x&logoColor=white)](https://x.com/stanslvmuller)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:smuller@gmail.com)
 
 ### Now i'm `Lead` two projects:
