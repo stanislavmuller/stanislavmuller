@@ -20,7 +20,6 @@
 * U.S. AI startup that matches event attendees with high-value contacts; own the platform architecture, scale the engineering team, instate Agile delivery practices, and contribute to core code.
 * Leading automation of boiler-house maintenance to secure consistent hot-water delivery throughout Germany and neighboring regions; define system architecture, manage cross-functional teams, drive Agile transformations, and write  production code.
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=artasov&theme=dracula&layout=compact&hide_border=true&bg_color=00000000" />
 
 <h3>Langs</h3>
 <img src="https://skillicons.dev/icons?i=python,ts,c,cpp,java,sass,html,css&perline=7" />
